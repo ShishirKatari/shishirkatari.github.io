@@ -1,7 +1,8 @@
-
-
-
-HERE WE GO AGAIN! :/
+---
+title: "HERE WE GO AGAIN! :/"
+date: 2021-09-13
+categories:
+---
 This time I got something up my sleeve (my brain) not my real sleeve…….
 So I wann talk about (deep breath)
 (Drumrollllll)
