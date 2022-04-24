@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Rohini Barla Blog"
+title: "Shishir Katari Blog"
 description: "As part of 21-Day Writing Challenge."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -91,10 +91,10 @@ defaults:
 
 # Site Author
 author:
-  name: Rohini Kumar Barla
+  name: Shishir Katari
   picture:
-  email: rohinibarla@hey.com
-  twitter: rohinibarla
+  email: shishirkatari@gmail.com
+  twitter: 
   links:
     - title:
       url:
